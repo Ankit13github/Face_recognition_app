@@ -94,7 +94,7 @@ Special Thanks: Radhika Warude for her valuable help.
 Contributions are welcome! Please fork the repo and create a pull request.
 
 📧 Contact
-For any queries, reach out to Akshat Sharma at akshatsharma1313@gmail.com
+For any queries, reach out to Ankit Malviya at am6374310@gmail.com
 
 🌐 License
 This project is licensed under the MIT License.
